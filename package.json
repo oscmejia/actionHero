@@ -23,16 +23,16 @@
     "node": ">=0.6.0"
   },
   "dependencies": {
-    "async": "0.x.x",
-    "request": "2.x.x",
-    "validator": "0.x.x",
-    "formidable": "1.x.x",
-    "colors": "0.x.x",
-    "data2xml": "x",
-    "mime": "1.x.x",
-    "hiredis": "0.x.x",
-    "redis": "x"
-  },
+    "async":"0.x.x", 
+    "request":"2.x.x",
+    "validator":"0.x.x",
+    "formidable":"1.x.x",
+    "colors":"0.x.x",
+    "data2xml":"x",
+    "mime":"1.x.x",
+    "hiredis":"0.x.x",
+    "redis":"x"
+	},
   "devDependencies": {
     "vows": "0.x.x"
   },
