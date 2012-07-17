@@ -29,9 +29,9 @@
 
 	"redis" : {
 		"enable": true,
-		"host": "127.0.0.1",
-		"port": 6379,
-		"password": null,
+		"host": "drum.redistogo.com",
+		"port": 9804,
+		"password": "eb25814f51e78246f54a50171093c117",
 		"options": null,
 		"DB": 0
 	},
